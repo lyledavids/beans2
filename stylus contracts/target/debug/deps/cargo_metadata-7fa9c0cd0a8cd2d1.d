@@ -1,0 +1,9 @@
+/Users/lyledavids/Desktop/Hackathon Projects/404ATL/Beans/target/debug/deps/cargo_metadata-7fa9c0cd0a8cd2d1.rmeta: /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.17.0/src/lib.rs /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.17.0/src/dependency.rs /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.17.0/src/diagnostic.rs /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.17.0/src/errors.rs /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.17.0/src/messages.rs
+
+/Users/lyledavids/Desktop/Hackathon Projects/404ATL/Beans/target/debug/deps/cargo_metadata-7fa9c0cd0a8cd2d1.d: /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.17.0/src/lib.rs /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.17.0/src/dependency.rs /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.17.0/src/diagnostic.rs /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.17.0/src/errors.rs /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.17.0/src/messages.rs
+
+/Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.17.0/src/lib.rs:
+/Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.17.0/src/dependency.rs:
+/Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.17.0/src/diagnostic.rs:
+/Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.17.0/src/errors.rs:
+/Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.17.0/src/messages.rs:

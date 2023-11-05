@@ -1,0 +1,9 @@
+/Users/lyledavids/Desktop/Hackathon Projects/404ATL/Beans/target/debug/deps/ethers_signers-61192e6ea7fea47a.rmeta: /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.10/src/lib.rs /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.10/src/wallet/mod.rs /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.10/src/wallet/mnemonic.rs /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.10/src/wallet/private_key.rs /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.10/src/../README.md
+
+/Users/lyledavids/Desktop/Hackathon Projects/404ATL/Beans/target/debug/deps/ethers_signers-61192e6ea7fea47a.d: /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.10/src/lib.rs /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.10/src/wallet/mod.rs /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.10/src/wallet/mnemonic.rs /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.10/src/wallet/private_key.rs /Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.10/src/../README.md
+
+/Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.10/src/lib.rs:
+/Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.10/src/wallet/mod.rs:
+/Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.10/src/wallet/mnemonic.rs:
+/Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.10/src/wallet/private_key.rs:
+/Users/lyledavids/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethers-signers-2.0.10/src/../README.md:
